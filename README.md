@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wynnchurchill
 - 👀 I’m currently interested in cybersecurity, specifically red-teaming and penetration testing. 
-- 🌱 I’m currently pursuing a CS Degree from Sattler College. Currently, it's my Junior year, and I'm taking parallel programming, digital ethics, and programming languages classes.
+- 🌱 I’m currently pursuing a CS Degree from Sattler College. I'm a rising Senior and am working on an Introduction to Computer Science class to teach to High Schoolers.
 - 💞️ I’m looking to collaborate on web development or cybersecurity projects. If you're interested in ethical hacking and are willing to teach, I'm happy to learn.
 - 📫 Email: wynnmiller@protonmail.com
 
